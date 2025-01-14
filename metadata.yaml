@@ -1,5 +1,5 @@
 homepage: "https://adpage.io"
 documentation: "https://github.com/AdPageGroup/tradetracker-server-tag"
 versions:
-  - sha: 08361807ffed951ebe2aea0ae26249dc93e07b8d
+  - sha: ed419c67f361c451725a1a6c39f44f9102062e32
     changeNotes: Initial release.
